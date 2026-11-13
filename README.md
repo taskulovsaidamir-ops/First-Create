@@ -1,33 +1,33 @@
-# AURA DENTAL — Premium Stomatologiya
+# AURA DENTAL — Премиальная стоматология
 
-Sovremennyy i premium-klassovyy odnostranichnyy sayt dlya stomatologicheskoy kliniki **AURA DENTAL**, razrabotannyy s uchetom sovremennykh trebovaniy dizayna, ergonomiki i adaptivnosti.
+Современный и премиальный одностраничный сайт для стоматологической клиники **AURA DENTAL**, разработанный с учетом современных требований дизайна, эргономики и адаптивности.
 
-## 🌟 Osobennosti proekta
+## 🌟 Особенности проекта
 
-* **Premialnyy dizayn:** Strogaya meditsinskaya estetika, vyderzhanivanie v belo-golubykh tsvetakh, minimalizm i aktsent na kachestvo.
-* **Shrifty:** Podklyuchenie garmonichnykh shriftov cherez Google Fonts (`Cormorant Garamond` i `Manrope`) dlya sozdaniya dorogogo vizualnogo stilya.
-* **Interaktivnost:**
-  * Liphkiy (sticky) header dlya bystrogo dostupa k navigatsii.
-  * Interaktivnyy slider «Do i Posle» dlya demonstratsii rezultatov rabot.
-  * Filtratsiya prajs-lista po kategoriyam uslug.
-  * Akcordeon v razdele FAQ.
-  * Formalizovannaya obratnaya svyaz s proverkoy poley (validatsiey).
-* **100% Adaptivnost:** Sayt polnostyu optimizirovan pod vse ustroystva (ot mobilnykh telefonov do shirokoformatnyh monitorov).
-* **Edinyy fayl:** Ves proekt (HTML, CSS i JavaScript) sobran v odnom fayle dlya legkosti zapuska i perenosa.
+* **Премиальный дизайн:** Строгая медицинская эстетика, выдержанная в бело-голубых тонах, минимализм и акцент на качество.
+* **Шрифты:** Подключение гармоничных шрифтов через Google Fonts (`Cormorant Garamond` и `Manrope`) для создания дорогого визуального стиля.
+* **Интерактивность:**
+  * Липкий (sticky) хэдер для быстрого доступа к навигации.
+  * Интерактивный слайдер «До и После» для демонстрации результатов работ.
+  * Фильтрация прайс-листа по категориям услуг.
+  * Аккордеон в разделе FAQ.
+  * Форма обратной связи с проверкой полей (валидацией).
+* **100% Адаптивность:** Сайт полностью оптимизирован под все устройства (от мобильных телефонов до широкоформатных мониторов).
+* **Единый файл:** Весь проект (HTML, CSS и JavaScript) собран в одном файле для легкости запуска и переноса.
 
-## 🛠 Ispolzuemye tekhnologii
+## 🛠 Используемые технологии
 
 * **HTML5 / CSS3** (Flexbox, Grid)
-* **JavaScript** (ES6+) dlya interaktivnykh elementov i animatsiy
+* **JavaScript (ES6+)** для интерактивных элементов и анимаций
 * **Google Fonts** (Cormorant Garamond, Manrope)
-* **FontAwesome** dlya ikonok
+* **FontAwesome** для иконок
 
-## 📁 Struktura proekta
+## 📁 Структура проекта
 
-Proekt realizovan v vide odnogo fayla:
-* `index.html` — glavnyy fayl, soderzhashchiy vsyu razmetku, stili i skripty.
+Проект реализован в виде одного файла:
+* `index.html` — главный файл, содержащий всю разметку, стили и скрипты.
 
-## 🚀 Kak zapustit proekt
+## 🚀 Как запустить проект
 
-1. Skachayte ili kloniruyte etot repozitoriy.
-2. Otkroyte fayl `index.html` v lyubom sovremennom veb-brauzere (Chrome, Safari, Firefox, Edge).
+1. Скачайте или клонируйте этот репозиторий.
+2. Откройте файл `index.html` в любом современном веб-браузере (Chrome, Safari, Firefox, Edge).
